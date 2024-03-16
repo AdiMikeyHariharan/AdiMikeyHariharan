@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdiMikeyHariharan
 - 👀 I’m interested in Cybersecurity ,Network and Full Stack Development
-- 🌱 I’m currently pursuing Cybersecurity related domains such as Digital Forensics
+- 🌱 I’m currently pursuing Cybersecurity
 - 💞️ I’m looking to collaborate on any projects that can develop my knowledge and are complex enough to pique my interest
 
 <!---
