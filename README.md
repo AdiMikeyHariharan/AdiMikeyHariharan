@@ -10,10 +10,11 @@
 
 ###
 
-<div  style="display: flex; align-items: center;">
-  <p>✨ Finding bugs since 2022<br>📚 I'm currently learning about Red Teaming<br>🎯 Goals: To become a bug bounty hunter and a VAPT</p>
+<div style="display: flex; align-items: center; flex-direction: row-reverse;">
   <img height="200" src="https://i.imgflip.com/65efzo.gif" style="margin-left: 20px;" />
+  <p>✨ Finding bugs since 2022<br>📚 I'm currently learning about Red Teaming<br>🎯 Goals: To become a bug bounty hunter and a VAPT</p>
 </div>
+
 
 ###
 
