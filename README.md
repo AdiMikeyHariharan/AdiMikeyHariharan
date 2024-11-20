@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Finding bugs since 2022<br>📚 I'm currently learning about Red Teaming<br>🎯 Goals: To become a bug bounty hunter and a VAPT</p>
+<div align="left" style="display: flex; align-items: center;">
+  <p>✨ Finding bugs since 2022<br>📚 I'm currently learning about Red Teaming<br>🎯 Goals: To become a bug bounty hunter and a VAPT</p>
+  <img height="200" src="https://i.imgflip.com/65efzo.gif" style="margin-left: 20px;" />
+</div>
 
 ###
 
@@ -38,7 +41,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AdiMikeyHariharan/AdiMikeyHariharan/output/snake.svg?sanitize=true" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AdiMikeyHariharan/AdiMikeyHariharan/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -50,10 +53,19 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/adityahariharanm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
+
+<h2 align="left">How to reach me</h2>
+
+###
+
+<h5 align="left">Mail me at ringupaditya@gmail.com</h5>
+
+###
+
+<h5 align="left">Contact me through my website</h5>
