@@ -10,9 +10,19 @@
 
 ###
 
-<div style="display: flex; align-items: center; flex-direction: row-reverse;">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" style="margin-left: 20px;position:absolute" />
-  <p>✨ Finding bugs since 2022<br>📚 I'm currently learning about Red Teaming<br>🎯 Goals: To become a bug bounty hunter and a VAPT</p>
+<!-- Parent div with relative positioning -->
+<div>
+  <!-- Text content -->
+  <img 
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNxOHkybG55M3EweGRoYzhkN2oyNnBlcjlzYzZpbHdxa2s3ZG84ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9az09tlYyYNfq/giphy.gif" 
+    height="200" 
+    style="float: right; margin-left: 15px; margin-bottom: 10px;" 
+  />
+  <p>
+    ✨ Finding bugs since 2022<br>
+    📚 I'm currently learning about Red Teaming<br>
+    🎯 Goals: To become a bug bounty hunter and a VAPT
+  </p>
 </div>
 
 
@@ -25,13 +35,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -42,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AdiMikeyHariharan/AdiMikeyHariharan/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -59,6 +63,11 @@
   </a>
 </div>
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/adityahariharanm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 ###
 
 <h2 align="left">How to reach me</h2>
