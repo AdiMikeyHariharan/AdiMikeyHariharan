@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AdiMikeyHariharan/AdiMikeyHariharan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AdiMikeyHariharan/AdiMikeyHariharan/output/snake.svg?sanitize=true" alt="Snake animation" />
 
 ###
 
