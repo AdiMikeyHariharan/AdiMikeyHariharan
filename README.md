@@ -2,7 +2,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Finding bugs since 2022<br>📚 I'm currently learning about Red Teaming<br>🎯 Goals: To become a bug bounty hunter and a VAPT</p>
+<p align="left">✨ Cybersecurity Student<br>📚 I'm currently learning about Red Teaming<br>🎯 Goals: To become a bug bounty hunter and a VAPT</p>
 
 ###
 
